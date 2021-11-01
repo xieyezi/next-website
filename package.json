@@ -1,6 +1,5 @@
 {
-  "name": "next-website",
-  "version": "0.1.0",
+  "name": "my-app",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,14 +8,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "11.1.2",
+    "next": "12.0.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@types/react": "17.0.27",
-    "eslint": "7.32.0",
-    "eslint-config-next": "11.1.2",
-    "typescript": "4.4.3"
+    "@types/node": "16.11.6",
+    "@types/react": "17.0.33",
+    "eslint": "7",
+    "eslint-config-next": "12.0.2",
+    "typescript": "4.4.4"
   }
 }
